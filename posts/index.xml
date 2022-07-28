@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>http://example.org/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Jul 2022 01:53:27 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>All Posts - Peter Chang</title>
+        <link>https://petergchang.github.io/posts/</link>
+        <description>All Posts | Peter Chang</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>peter0414@gmail.com (Peter Chang)</managingEditor>
+            <webMaster>peter0414@gmail.com (Peter Chang)</webMaster><lastBuildDate>Thu, 28 Jul 2022 01:53:27 -0400</lastBuildDate><atom:link href="https://petergchang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
-    <link>http://example.org/posts/first_post/</link>
+    <link>https://petergchang.github.io/first_post/</link>
     <pubDate>Thu, 28 Jul 2022 01:53:27 -0400</pubDate>
-    <author>xxxx</author>
-    <guid>http://example.org/posts/first_post/</guid>
+    <author>Peter Chang</author>
+    <guid>https://petergchang.github.io/first_post/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
