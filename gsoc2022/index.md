@@ -14,7 +14,7 @@ Starting from Kalman filters (LGSSM), I climbed the [tower of abstraction](http:
 
 Kalman filters are closed-form solutions for state-space models (SSMs) in which all distributions involved are linear Gaussian. While useful, most SSMs in the real world do not have linear-Gaussian forms for the state dynamics and emission models.
 
-I learned about and implemented extensions of Kalman filters for non-linear dynamics and emission models, namely the extended Kalman filter (EKF), the unscented Kalman filter (UKF), and Gauss-Hermite Kalman Filter (GHKF). I created a nice toy example demonstrating the differences in the scopes (and accuracies) of their Gaussian approximations for non-linear transformations, as shown below.
+I learned about and implemented extensions of Kalman filters for non-linear dynamics and emission models, namely the extended Kalman filter (EKF), the unscented Kalman filter (UKF), and Gauss-Hermite Kalman filter (GHKF). I created a nice toy example demonstrating the differences in the scopes (and accuracies) of their Gaussian approximations for non-linear transformations, as shown below.
 
 <table>
   <tr>
