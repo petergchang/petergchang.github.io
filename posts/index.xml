@@ -4,13 +4,15 @@
         <link>https://petergchang.github.io/posts/</link>
         <description>All Posts | Peter Chang</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>peter0414@gmail.com (Peter Chang)</managingEditor>
-            <webMaster>peter0414@gmail.com (Peter Chang)</webMaster><lastBuildDate>Thu, 28 Jul 2022 01:53:27 -0400</lastBuildDate><atom:link href="https://petergchang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://petergchang.github.io/first_post/</link>
-    <pubDate>Thu, 28 Jul 2022 01:53:27 -0400</pubDate>
+            <webMaster>peter0414@gmail.com (Peter Chang)</webMaster><lastBuildDate>Sat, 10 Sep 2022 16:31:50 -0500</lastBuildDate><atom:link href="https://petergchang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>GSoC 2022 Retrospective</title>
+    <link>https://petergchang.github.io/gsoc2022/</link>
+    <pubDate>Sat, 10 Sep 2022 16:31:50 -0500</pubDate>
     <author>Peter Chang</author>
-    <guid>https://petergchang.github.io/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>https://petergchang.github.io/gsoc2022/</guid>
+    <description><![CDATA[GSoC 2022 Retrospective During the summer of 2022, I participated in the GSoC (Google Summer of Code). I was fortunate enough to be mentored by Kevin P. Murphy and Scott Linderman. My main contributions have been for the probml/ssm-jax and probml/pyprobml repos.
+Main Contributions The majority of my time has been spent building the inference portion of the ssm-jax library.
+Starting from Kalman filters (LGSSM), I climbed the tower of abstraction, eventually arriving at the most general formulation of Gaussian filters, the conditional-moments Gaussian filters (CMGFs).]]></description>
 </item>
 </channel>
 </rss>
