@@ -9,7 +9,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://petergchang.github.io/gsoc2022/" /><meta property="og:image" content="https://petergchang.github.io/images/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-09-10T16:31:50-05:00" />
-<meta property="article:modified_time" content="2022-09-11T00:17:51-05:00" /><meta property="og:site_name" content="Peter Chang" />
+<meta property="article:modified_time" content="2022-09-11T14:36:35-05:00" /><meta property="og:site_name" content="Peter Chang" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://petergchang.github.io/images/logo.png"/>
@@ -30,8 +30,8 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/petergchang.github.io\/gsoc2022\/"
-        },"genre": "posts","wordcount":  751 ,
-        "url": "https:\/\/petergchang.github.io\/gsoc2022\/","datePublished": "2022-09-10T16:31:50-05:00","dateModified": "2022-09-11T00:17:51-05:00","publisher": {
+        },"genre": "posts","wordcount":  824 ,
+        "url": "https:\/\/petergchang.github.io\/gsoc2022\/","datePublished": "2022-09-10T16:31:50-05:00","dateModified": "2022-09-11T14:36:35-05:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
                 "@type": "Person",
@@ -69,10 +69,14 @@
 </header><main class="main">
                 <div class="container"><article class="page single"><h1 class="single-title animate__animated animate__flipInX">GSoC 2022 Retrospective</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://petergchang.github.io/" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Peter Chang</a></span>&nbsp;<span class="post-category">included in <a href="/categories/retrospective/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Retrospective</a>&nbsp;<a href="/categories/ml/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>ML</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-09-10">2022-09-10</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;751 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-09-10">2022-09-10</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;824 words&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="content" id="content"><h1 id="gsoc-2022-retrospective">GSoC 2022 Retrospective</h1>
-<p>During the summer of 2022, I participated in the GSoC (Google Summer of Code). I was fortunate enough to be mentored by <a href="https://www.cs.ubc.ca/~murphyk/" target="_blank" rel="noopener noreffer ">Kevin P. Murphy</a> and <a href="https://web.stanford.edu/~swl1/" target="_blank" rel="noopener noreffer ">Scott Linderman</a>. My main contributions have been for the <a href="https://github.com/probml/ssm-jax" target="_blank" rel="noopener noreffer "><code>probml/ssm-jax</code></a> and <a href="https://github.com/probml/pyprobml" target="_blank" rel="noopener noreffer "><code>probml/pyprobml</code></a> repos.</p>
+<p>During the summer of 2022, I participated in the GSoC (Google Summer of Code). I was fortunate enough to be mentored by <a href="https://www.cs.ubc.ca/~murphyk/" target="_blank" rel="noopener noreffer ">Kevin P. Murphy</a> and <a href="https://web.stanford.edu/~swl1/" target="_blank" rel="noopener noreffer ">Scott Linderman</a>. My main contributions have been for the <a href="https://github.com/probml/dynamax" target="_blank" rel="noopener noreffer "><code>probml/ssm-jax</code></a> and <a href="https://github.com/probml/pyprobml" target="_blank" rel="noopener noreffer "><code>probml/pyprobml</code></a> repos.</p>
+<blockquote>
+<p><strong>Update (2022.10.17)</strong>: the <code>ssm-jax</code> library has been renamed as <a href="https://github.com/probml/dynamax" target="_blank" rel="noopener noreffer "><code>dynamax</code></a>. Some of the links below
+may be broken, in which case replace <code>ssm-jax</code> with <code>dynamax</code>.</p>
+</blockquote>
 <h3 id="main-contributions">Main Contributions</h3>
 <p>The majority of my time has been spent building the inference portion of the <code>ssm-jax</code> library.</p>
 <p>Starting from Kalman filters (LGSSM), I climbed the <a href="http://bit-player.org/2020/the-teetering-towers-of-abstraction" target="_blank" rel="noopener noreffer ">tower of abstraction</a>, eventually arriving at the most general formulation of Gaussian filters, the conditional-moments Gaussian filters (CMGFs).</p>
@@ -132,6 +136,11 @@
     <source src="/videos/GSOC2022/cmgf_mlp_classifier.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
+<h3 id="textbook-co-author">Textbook Co-Author</h3>
+<p>I was also lucky enough to co-author a section of Kevin&rsquo;s upcoming sequel to his extremely popular
+Bayesian machine learning textbook: <a href="https://probml.github.io/pml-book/book2.html" target="_blank" rel="noopener noreffer "><em>Probabilistic Machine Learning: Advanced Topics</em></a>.
+The section, <strong>8.7: General Gaussian Filtering</strong>, covers Gaussian moment-matching, statistical linear regression,
+iterated posterior linearization, and conditional moments Gaussian filter.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>As a beginner open-source contributor, I found GSoC 2022 to be a thoroughly fulfilling and enjoyable learning experience. At the beginning of the summer, I barely understood how Kalman filters worked, and it was incredibly satisfying to gradually discover the subtle differences among the myriad extensions of Kalman filters. Witnessing my implementation of the most general version of them all, the CMGF, perform well in various challenging demos has been very exciting.</p>
 <p>I feel extremely grateful to have been a member of the <code>ssm-jax</code> team, and I learned so much from everyone that I&rsquo;ve worked with. Our incredible mentors, Kevin Murphy and Scott Linderman, fostered a warm and inclusive environment that always encouraged challenging myself without, despite my relative lack of knowlege and experience, ever feeling overwhelming. I greatly look forward to continuing our work (and friendship) with the rest of the team in the future.</p>

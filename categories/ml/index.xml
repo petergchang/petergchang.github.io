@@ -11,8 +11,8 @@
     <author>Peter Chang</author>
     <guid>https://petergchang.github.io/gsoc2022/</guid>
     <description><![CDATA[GSoC 2022 Retrospective During the summer of 2022, I participated in the GSoC (Google Summer of Code). I was fortunate enough to be mentored by Kevin P. Murphy and Scott Linderman. My main contributions have been for the probml/ssm-jax and probml/pyprobml repos.
-Main Contributions The majority of my time has been spent building the inference portion of the ssm-jax library.
-Starting from Kalman filters (LGSSM), I climbed the tower of abstraction, eventually arriving at the most general formulation of Gaussian filters, the conditional-moments Gaussian filters (CMGFs).]]></description>
+Update (2022.10.17): the ssm-jax library has been renamed as dynamax. Some of the links below may be broken, in which case replace ssm-jax with dynamax.
+Main Contributions The majority of my time has been spent building the inference portion of the ssm-jax library.]]></description>
 </item>
 </channel>
 </rss>
