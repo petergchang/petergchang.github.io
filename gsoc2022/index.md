@@ -5,8 +5,8 @@
 
 During the summer of 2022, I participated in the GSoC (Google Summer of Code). I was fortunate enough to be mentored by [Kevin P. Murphy](https://www.cs.ubc.ca/~murphyk/) and [Scott Linderman](https://web.stanford.edu/~swl1/). My main contributions have been for the [``probml/ssm-jax``](https://github.com/probml/dynamax) and [``probml/pyprobml``](https://github.com/probml/pyprobml) repos.
 
-> **Update (2022.10.17)**: the `ssm-jax` library has been renamed as [`dynamax`](https://github.com/probml/dynamax). Some of the links below
-may be broken, in which case replace `ssm-jax` with `dynamax`.
+> **Update (2022.10.17)**: the `ssm-jax` library has been renamed [`dynamax`](https://github.com/probml/dynamax). Some of the links below
+may become broken in the upcoming days, in which case replacing `ssm-jax` with `dynamax` should do the trick.
 
 
 ### Main Contributions
@@ -82,7 +82,7 @@ Finally, I demonstrated that CMGF can be used to train MLP-classifiers in a sing
     Your browser does not support the video tag.  
 </video>
 
-### Textbook Co-Author
+### Textbook Section Co-Author
 I was also lucky enough to co-author a section of Kevin's upcoming sequel to his extremely popular 
 Bayesian machine learning textbook: [*Probabilistic Machine Learning: Advanced Topics*](https://probml.github.io/pml-book/book2.html).
 The section, **8.7: General Gaussian Filtering**, covers Gaussian moment-matching, statistical linear regression,
