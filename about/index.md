@@ -8,6 +8,7 @@
     </td>
     <td style='width: 50%'>
         I'm Peter. I am an incoming PhD student at MIT EECS/CSAIL.
+        I am grateful to be supported by the NSF CSGrad4US Graduate Fellowship.
         I currently work as a Research Professional at the <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/about">Center for Applied AI</a> with Professor Sendhil Mullainathan. <br><br>
         I am interested in machine learning for scientific discovery, Bayesian inference, and state space models. <br><br>
         I also enjoy <a href="https://www.youtube.com/channel/UCYSBM54glGczLVWIQHzHmHw">playing music and making films</a>. <br><br>
