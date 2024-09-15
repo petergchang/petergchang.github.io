@@ -7,7 +7,7 @@
         <img src="/images/about/baby.jpg" style='width: 80%'>
     </td>
     <td style='width: 50%'>
-        I'm Peter. I am EECS PhD student at MIT CSAIL,
+        I'm Peter. I am an EECS PhD student at MIT,
         advised by Sendhil Mullainathan. <br><br>
         I am grateful to be supported by the
         MIT EECS Advanced Television and Signal Processing Fellowship
