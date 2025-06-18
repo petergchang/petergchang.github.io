@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://petergchang.github.io/</loc><lastmod>2025-06-18T14:20:22-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://petergchang.github.io/</loc><lastmod>2025-06-18T14:20:52-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://petergchang.github.io/posts/</loc><lastmod>2025-06-18T14:20:22-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://petergchang.github.io/test-post/</loc><lastmod>2025-06-18T14:20:22-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://petergchang.github.io/categories/</loc><lastmod>2024-05-06T22:44:17-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -13,5 +13,5 @@
             <loc>https://petergchang.github.io/categories/ml/</loc><lastmod>2022-10-25T22:16:59-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://petergchang.github.io/categories/retrospective/</loc><lastmod>2022-10-25T22:16:59-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://petergchang.github.io/about/</loc><lastmod>2024-09-14T22:35:27-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://petergchang.github.io/research/</loc><lastmod>2025-06-18T14:20:22-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://petergchang.github.io/research/</loc><lastmod>2025-06-18T14:20:52-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://petergchang.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

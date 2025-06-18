@@ -1,7 +1,7 @@
 # 
 
 
-## Publications
+# Publications
 
 - K. Vafa, **P. Chang**, A. Rambachan, S. Mullainathan. What Has a Foundation Model Found? Inductive Bias Reveals World Models. 2025. International Conference on Machine Learning (ICML).
 - M. Jones, **P. Chang**, K. Murphy. Bayesian Online Natural Gradient. 2024. Advances in Neural Information Processing Systems (NeurIPS). ([link](https://arxiv.org/abs/2405.19681))
