@@ -1,18 +1,19 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Productivity - Category - Peter Chang</title>
-        <link>https://petergchang.github.io/categories/productivity/</link>
-        <description>Productivity - Category - Peter Chang</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>peter0414@gmail.com (Peter G. Chang)</managingEditor>
-            <webMaster>peter0414@gmail.com (Peter G. Chang)</webMaster><lastBuildDate>Thu, 02 May 2024 16:31:50 -0500</lastBuildDate><atom:link href="https://petergchang.github.io/categories/productivity/" rel="self" type="application/rss+xml" /><item>
-    <title>How to Resolve VSCode Syntax Highlighting Issue</title>
-    <link>https://petergchang.github.io/vscodesyntaxhighlighting/</link>
-    <pubDate>Thu, 02 May 2024 16:31:50 -0500</pubDate>
-    <author>Peter G. Chang</author>
-    <guid>https://petergchang.github.io/vscodesyntaxhighlighting/</guid>
-    <description><![CDATA[The Problem I&rsquo;ve started to experience significant delays in trivial tasks on VSCode. For example, every time I pressed the enter button, it would take &gt;3 seconds for the cursor to move to the next line. This was, for obvious reasons, extremely frustrating and significantly hampered with my productivity as well as the desire to engage in programming.
-In addition, at some point, the syntax highlighting stopped working.
-I&rsquo;d assumed these were orthogonal issues, but they were not!]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Peter Chang</title>
+    <link>https://petergchang.github.io/categories/productivity/</link>
+    <description>Recent content in Productivity on Peter Chang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 22:44:17 -0500</lastBuildDate>
+    <atom:link href="https://petergchang.github.io/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Resolve VSCode Syntax Highlighting Issue</title>
+      <link>https://petergchang.github.io/vscodesyntaxhighlighting/</link>
+      <pubDate>Thu, 02 May 2024 16:31:50 -0500</pubDate>
+      <guid>https://petergchang.github.io/vscodesyntaxhighlighting/</guid>
+      <description>&lt;h1 id=&#34;the-problem&#34;&gt;The Problem&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve started to experience significant delays in trivial tasks on VSCode.&#xA;For example, every time I pressed the enter button, it would take &amp;gt;3 seconds&#xA;for the cursor to move to the next line. This was, for obvious reasons,&#xA;extremely frustrating and significantly hampered with my productivity as well as the&#xA;desire to engage in programming.&lt;/p&gt;&#xA;&lt;p&gt;In addition, at some point, the syntax highlighting stopped working.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d assumed these were orthogonal issues, but they were not!&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
