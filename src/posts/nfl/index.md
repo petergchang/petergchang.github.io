@@ -1,5 +1,5 @@
 ---
-title: This is my first post.
+title: Coming Soon!
 description: This is my first post.
 canonical: https://petergchang.github.io/nfl/
 css:
@@ -9,7 +9,7 @@ include-before: []
 include-after: []
 ---
 
-This is my first post TODO.
+My first post is coming soon! Check back in a week.
 
 [← Return home](/)
 

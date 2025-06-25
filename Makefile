@@ -29,6 +29,8 @@ serve:
 .PHONY: public
 public:
 	mkdir -p site
+	@echo "Cleaning site directory, preserving .git"
+	@find site -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 	cp -rv public/* public/.nojekyll site
 
 site/%.html: src/%.md
@@ -45,3 +47,4 @@ site_repo:
 	fi
 	@echo "Fetching and resetting site directory to origin/main";
 	cd ./site && git fetch && git checkout main && git reset --hard origin/main
+

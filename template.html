@@ -41,7 +41,10 @@ $for(include-before)$
 $include-before$
 $endfor$
 <main>
+$if(no_h1)$
+$else$
 <h1>$title$</h1>
+$endif$
 $if(toc)$
 <nav id="$idprefix$TOC" role="doc-toc">
 $table-of-contents$
