@@ -85,9 +85,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 1.35rem 0;
-  color: var(--solarized-orange);
+  color: var(--solarized-magenta);
   font-weight: normal;
 }
 
@@ -110,7 +110,7 @@ h6::before {
 }
 
 h1:not(:empty)::before { content: '# '; }
-h2::before { content: '## '; }
+h2::before { content: '🧵 '; }
 h3::before { content: '### '; }
 h4::before { content: '#### '; }
 h5::before { content: '##### '; }

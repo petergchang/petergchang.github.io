@@ -1,8 +1,0 @@
-.*.sw[nop]
-tags
-.DS_Store
-.sass-cache
-
-/site
-node_modules
-npm-debug.log
