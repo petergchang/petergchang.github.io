@@ -7,11 +7,11 @@ all:
 html := $(patsubst src/%.md,site/%.html,$(shell find src -name '*.md' -type f))
 
 .PHONY: build
-build: rm-r public $(html)
+build: site_repo public $(html)
 
 .PHONY: deploy
 deploy:
-	cd ./site && git add -A && git commit -m "Updated site - $$(date)" && git push origin master
+	cd ./site && git add -A && git commit -m "Updated site - $$(date)" && git push origin main
 
 .PHONY: watch
 watch:
@@ -21,10 +21,6 @@ watch:
 serve:
 	cd ./site && python3 -m http.server
 
-.PHONY: rm-r
-rm-r:
-	rm -rfv site/*
-
 .PHONY: public
 public:
 	mkdir -p site
@@ -33,3 +29,14 @@ public:
 site/%.html: src/%.md
 	mkdir -p "$$(dirname "$@")"
 	pandoc -t html5 --template template.html "$<" -o "$@"
+
+.PHONY: site_repo
+site_repo:
+	@if [ ! -d "site/.git" ]; then \
+		echo "Cloning main branch into site/ directory..."; \
+		rm -rf site; \
+		URL=$$(git remote get-url origin); \
+		git clone -b main $$URL site; \
+	fi
+	@echo "Fetching and resetting site directory to origin/main";
+	cd ./site && git fetch && git reset --hard origin/main

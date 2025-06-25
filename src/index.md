@@ -28,6 +28,10 @@ If our interests are aligned, please [reach out](mailto:gyuyoung@mit.edu) to me!
 
 ---
 
+| Post  | Date |
+| :----------- | :----------- |
+| [Post 1](/posts/nfl/)   <div style="width:290px">property</div>      | 2025.06.25. |
+
 1. [Post 1](/posts/nfl/) (2025.06.25.)
 
 ---
