@@ -304,33 +304,3 @@ code span.do { color: var(--solarized-base01); font-weight: normal; font-style: 
 code span.an { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* Annotation */
 code span.cv { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* CommentVar */
 code span.in { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* Information */
-
-/* -- ASCII Art / Responsive Title -- */
-.mobile-title {
-  display: none;
-}
-
-pre.ascii-art {
-  background: none;
-  margin: 2.7rem 0 1.35rem 0;
-  padding: 0;
-  overflow-x: auto;
-  text-align: center;
-  font-size: 0.75rem;
-  line-height: 1.1;
-  color: var(--solarized-base0);
-}
-
-pre.ascii-art code {
-  display: inline-block;
-  text-align: left;
-}
-
-@media screen and (max-width: 767px) {
-  pre.ascii-art {
-    display: none;
-  }
-  .mobile-title {
-    display: block;
-  }
-}
