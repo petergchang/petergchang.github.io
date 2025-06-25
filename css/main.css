@@ -304,3 +304,19 @@ code span.do { color: var(--solarized-base01); font-weight: normal; font-style: 
 code span.an { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* Annotation */
 code span.cv { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* CommentVar */
 code span.in { color: var(--solarized-base01); font-weight: normal; font-style: italic; } /* Information */
+
+/* -- ASCII Art -- */
+
+.ascii-art {
+  text-align: center;
+}
+
+.ascii-art pre {
+  display: inline-block;
+  text-align: left;
+  background: none !important;
+  margin: 2.7rem 0 !important;
+  padding: 0 !important;
+  font-size: 0.75rem;
+  line-height: 1.1;
+}
