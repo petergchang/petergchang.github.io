@@ -11,6 +11,11 @@ build: site_repo public $(html)
 
 .PHONY: deploy
 deploy:
+	@if [ ! -d "site/.git" ]; then \
+		echo "Error: site/ directory is not a git repository." >&2; \
+		echo "Please run 'make build' first to set it up." >&2; \
+		exit 1; \
+	fi
 	cd ./site && git add -A && git commit -m "Updated site - $$(date)" && git push origin main
 
 .PHONY: watch
@@ -39,4 +44,4 @@ site_repo:
 		git clone -b main $$URL site; \
 	fi
 	@echo "Fetching and resetting site directory to origin/main";
-	cd ./site && git fetch && git reset --hard origin/main
+	cd ./site && git fetch && git checkout main && git reset --hard origin/main
