@@ -323,7 +323,7 @@ code span.in { color: var(--solarized-base01); font-weight: normal; font-style: 
 
 /* -- Alternative h2 styles -- */
 h2.news {
-  color: var(--solarized-red);
+  color: var(--solarized-magenta);
 }
 
 h2.news::before {
