@@ -37,6 +37,7 @@ site/%.html: src/%.md
 	mkdir -p "$$(dirname "$@")"
 	pandoc -t html5 --template template.html "$<" -o "$@"
 
+
 .PHONY: site_repo
 site_repo:
 	@if [ ! -d "site/.git" ]; then \

@@ -8,13 +8,11 @@ header-includes: []
 include-before: []
 include-after: []
 ---
-```
-    ____      _               ____      ____ _                       
-   |  _ \ ___| |_ ___ _ __   / ___|    / ___| |__   __ _ _ __   __ _ 
-   | |_) / _ \ __/ _ \ '__| | |  _    | |   | '_ \ / _` | '_ \ / _` |
-   |  __/  __/ ||  __/ |    | |_| |_  | |___| | | | (_| | | | | (_| |
-   |_|   \___|\__\___|_|     \____(_)  \____|_| |_|\__,_|_| |_|\__, |
-                                                               |___/ 
+```{.ascii-art}
+ _                 __       __          _ 
+|_) _ _|_ _  __   /__      /  |_  _ __ (_|
+|  (/_ |_(/_ |    \_| o    \__| |(_|| |__|
+
 ```
 
 I'm Peter, a second-year PhD student in the EECS department at MIT. I am extremely fortunate to be advised by [Sendhil Mullainathan](https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519). I am interested in **machine learning for scientific discovery**.
