@@ -17,7 +17,9 @@ include-after: []
                                                                |___/ 
 ```
 
-I'm Peter, an EECS PhD student at MIT, where I am extremely fortunate to be advised by [Sendhil Mullainathan](https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519). I am interested in **machine learning for scientific discovery**.
+I'm Peter, a second-year PhD student in the EECS department at MIT. I am extremely fortunate to be advised by [Sendhil Mullainathan](https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519). I am interested in **machine learning for scientific discovery**.
+
+Previously, I did my A.B. in Physics and Mathematics and S.M. in Computer Science, both at Harvard University. My work is supported by the NSF CSGrad4US Fellowship.
 
 To check out some of the things I've been working on:
 
@@ -30,11 +32,16 @@ If our interests are aligned, please [reach out](mailto:gyuyoung@mit.edu) to me!
 
 ---
 
-## Blog
+<!-- ## Blog {.blog}
 
 1. [Post 1](/posts/nfl/) (2025.06.25.)
 
----
+--- -->
+
+## Popular Press {.news}
+
+1. [Can LLMs Figure Out the Real World?](https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825) *MIT News* (2025.08.25.)
+2. [Why "Vibe Physics" is the Ultimate Example of AI Slop](https://bigthink.com/starts-with-a-bang/vibe-physics-ai-slop/) *Big Think* (2025.07.30.)
 
 <div style="text-align: center; font-size: small;">
 Website design adapted from [jez.io](https://jez.io/)
