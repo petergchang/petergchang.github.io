@@ -26,7 +26,7 @@ To check out some of the things I've been working on:
 - my [tweets](https://x.com/petergchang)
 - my [videos](https://www.youtube.com/channel/UCYSBM54glGczLVWIQHzHmHw)
 
-I recently co-organized the [ML-Driven Scientific Discovery Retreat](https://sites.google.com/mit.edu/ml-driven-discovery/home).
+I recently co-organized the [ML-Driven Scientific Discovery Retreat](https://sites.google.com/mit.edu/ml-driven-discovery/home) and the [ICML 2025 World Models Workshop](https://www.worldmodelworkshop.org/).
 
 If our interests are aligned, please [reach out](mailto:gyuyoung@mit.edu) to me!
 
