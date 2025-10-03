@@ -15,9 +15,9 @@ include-after: []
 
 ```
 
-I'm Peter, a second-year PhD student in the EECS department at MIT. I am extremely fortunate to be advised by [Sendhil Mullainathan](https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519). I am interested in **machine learning for scientific discovery**.
+I'm Peter, a second-year PhD student in the EECS department at MIT. I am extremely fortunate to be advised by [Sendhil Mullainathan](https://news.mit.edu/2025/sweet-taste-new-idea-sendhil-mullainathan-0519). I am interested in **machine learning for scientific discovery**. My work is supported by the NSF CSGrad4US Fellowship.
 
-Previously, I did my A.B. in Physics and Mathematics and S.M. in Computer Science, both at Harvard University. My work is supported by the NSF CSGrad4US Fellowship.
+Previously, I did my A.B. in Physics and Mathematics and S.M. in Computer Science, both at Harvard University. I am deeply grateful to [Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) for his mentorship and for inspiring my interest in machine learning research.
 
 To check out some of the things I've been working on:
 
@@ -26,7 +26,10 @@ To check out some of the things I've been working on:
 - my [tweets](https://x.com/petergchang)
 - my [videos](https://www.youtube.com/channel/UCYSBM54glGczLVWIQHzHmHw)
 
+I recently co-organized the [ML-Driven Scientific Discovery Retreat](https://sites.google.com/mit.edu/ml-driven-discovery/home).
+
 If our interests are aligned, please [reach out](mailto:gyuyoung@mit.edu) to me!
+
 
 ---
 
