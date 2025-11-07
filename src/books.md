@@ -1,15 +1,13 @@
 ---
-title: "Book Reviews"
-description: "Peter's book reviews."
+title: "Books I Read Recently"
+description: "Books I read recently."
 css:
   - /css/main.css
 ---
 
-Here are some short reviews of some of the recent books I've read.
-
 <details>
-<summary><i>Vaim</i> by Jon Fosse (2025.11.30.)</summary>
+<summary><i>Vaim</i> by Jon Fosse (2025.10.30.)</summary>
 <blockquote>
-Good
+The tragedy of a listless life.
 </blockquote>
 </details>
