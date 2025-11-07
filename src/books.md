@@ -8,6 +8,6 @@ css:
 <details>
 <summary><i>Vaim</i> by Jon Fosse (2025.10.30.)</summary>
 <blockquote>
-The tragedy of a listless life.
+The insignificant tragedy of a listless life, one which calls for breathless imbibition.
 </blockquote>
 </details>
