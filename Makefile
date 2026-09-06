@@ -35,7 +35,7 @@ public:
 
 site/%.html: src/%.md
 	mkdir -p "$$(dirname "$@")"
-	pandoc -t html5 --template template.html "$<" -o "$@"
+	pandoc -t html5 --template template.html $$(grep -q '^toc: true' "$<" && echo --toc) "$<" -o "$@"
 
 
 .PHONY: site_repo
