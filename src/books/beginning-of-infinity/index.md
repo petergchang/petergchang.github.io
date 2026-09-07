@@ -31,21 +31,34 @@ In particular, some of the questions I have in mind approaching this book are: "
 Prediction, before reading: …
 -->
 
+**1. The Reach of Explanations.**
+
+- *What does he mean when he says that the reach is *intrinsic* to an explanation?*
+  - It feels like a subtle point, that the extrapolation is not a detatchable property of an explanation, but is core to the explanation, but it also seems like a vacuous point?
+
+**2. Closer to Reality**
+
 ## Surprises
 
 <!-- Things that made me go "huh," caught while reading, since they don't survive in memory. Format:
 - ch. 1 — …
 -->
+**1. The Reach of Explanations.**
+
+- Occam's razor is not what makes an explanation good, it is the lack of variability.
+  - The distinction is that Occam's razor focuses on the (narrative) *simplicity* of an explanation, whereas variability corresponds to the range of predictions that are constrained by the explanation.
+  - A complicated function whose outputs have a wide variance is an excellent explanation if the reach of such predictions is wide.
+- The reach of a good explanation is exactly the same point as the *transferability* of theories (versus predictive black-box models).
+
+**2. Closer to Reality**
 
 ## Claims ledger
 
 <!-- Load-bearing claims, one line each, added as I meet them. Credences move; old values get struck through, not deleted. Format:
 1. **Claim, in one sentence.** credence ~~0.5~~ 0.7 · depends on: #n · best objection: … · for AI4Sci: …
 -->
-1. *What is an explanation?*: An explanation is a story as a chain of smaller explanations.
-2. *What makes an explanation better than another?*: The plausibility of the mini-explanations that one depends on, and the simplicity of the chain.
-3. *Where does knowledge come from?*: Knowledge comes from perception of experience.
-4. 
+1. **A good explanation is one that doesn't vary**:
+2. **A good explanation is one with a wider reach**:
 
 ## Chapter reconstructions
 
@@ -57,6 +70,12 @@ Prediction, before reading: …
 
 *Addendum, 2026.09.xx.* What I got wrong: …
 -->
+**1. The Reach of Explanations.**
+
+A lot of our knowledge consists of explanations for things that we have not observed. How is that possible? The scientific revolution triggered a search for *good explanations*. An an explanation is *good* if it is (1) testable; and, more importantly, (2) less variable. By virtue of a good explanation being less variable, a good explanation has *reach*, and excellent ones have *infinite reach*.
+
+**2. Closer to Reality**
+
 
 ## What changed my mind
 
