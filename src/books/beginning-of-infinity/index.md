@@ -14,6 +14,10 @@ css:
 ## Why I'm reading this
 
 <!-- One paragraph, written before the book has had a chance to answer anything: the question I'm bringing to it, and what I currently believe about it. -->
+I've had this book (among many, many others) on my bookshelf for many years, as a book that I would have liked to have read, but never having even opened.
+A few days ago, I was chatting with an AI researcher at a frontier lab who recommended reading the first 60 pages of this book, reassuring us that it would be challenging but worth it.
+It also coincided with my resolve to have more clarity of what my bet as an AI for Science researcher is, and to my great delight this book seems like a great sparring partner for the next several weeks (or months).
+In particular, some of the questions I have in mind approaching this book are: "How is scientific understanding different from prediction?" "What is a theory?" "Can scientific understanding be compressed into the substrate of computing?"
 
 ## Questions I'm holding
 
@@ -38,6 +42,10 @@ Prediction, before reading: …
 <!-- Load-bearing claims, one line each, added as I meet them. Credences move; old values get struck through, not deleted. Format:
 1. **Claim, in one sentence.** credence ~~0.5~~ 0.7 · depends on: #n · best objection: … · for AI4Sci: …
 -->
+1. *What is an explanation?*: An explanation is a story as a chain of smaller explanations.
+2. *What makes an explanation better than another?*: The plausibility of the mini-explanations that one depends on, and the simplicity of the chain.
+3. *Where does knowledge come from?*: Knowledge comes from perception of experience.
+4. 
 
 ## Chapter reconstructions
 
