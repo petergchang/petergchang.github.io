@@ -33,10 +33,14 @@ Prediction, before reading: …
 
 **1. The Reach of Explanations.**
 
-- *What does he mean when he says that the reach is *intrinsic* to an explanation?*
+- What does he mean when he says that the reach is *intrinsic* to an explanation?
   - It feels like a subtle point, that the extrapolation is not a detatchable property of an explanation, but is core to the explanation, but it also seems like a vacuous point?
+- How can one measure "hard to vary"?
 
 **2. Closer to Reality**
+- What does he mean by "when we make an error it is an error in the explanation of something"?
+
+**3. The Spark**
 
 ## Surprises
 
@@ -46,19 +50,19 @@ Prediction, before reading: …
 **1. The Reach of Explanations.**
 
 - Occam's razor is not what makes an explanation good, it is the lack of variability.
-  - The distinction is that Occam's razor focuses on the (narrative) *simplicity* of an explanation, whereas variability corresponds to the range of predictions that are constrained by the explanation.
-  - A complicated function whose outputs have a wide variance is an excellent explanation if the reach of such predictions is wide.
+  - The distinction is that Occam's razor focuses on the (narrative) *simplicity* of an explanation, whereas variability corresponds to how tightly the predictions are constrained by the details of the explanation.
 - The reach of a good explanation is exactly the same point as the *transferability* of theories (versus predictive black-box models).
 
 **2. Closer to Reality**
+
+**3. The Spark**
 
 ## Claims ledger
 
 <!-- Load-bearing claims, one line each, added as I meet them. Credences move; old values get struck through, not deleted. Format:
 1. **Claim, in one sentence.** credence ~~0.5~~ 0.7 · depends on: #n · best objection: … · for AI4Sci: …
 -->
-1. **A good explanation is one that doesn't vary**:
-2. **A good explanation is one with a wider reach**:
+1. **A good explanation is one that is hard to vary**.
 
 ## Chapter reconstructions
 
@@ -74,7 +78,13 @@ Prediction, before reading: …
 
 A lot of our knowledge consists of explanations for things that we have not observed. How is that possible? The scientific revolution triggered a search for *good explanations*. An an explanation is *good* if it is (1) testable; and, more importantly, (2) less variable. By virtue of a good explanation being less variable, a good explanation has *reach*, and excellent ones have *infinite reach*.
 
+Empiricism and inductivism are wrong accounts for how we construct knowledge. Empiricism claims we build knowledge from our sense experience; inductivism claims knowledge/theory gains justification by repetition. Deutsch argues against both, showing sense experience is itself fundamentally subjective; he proposes instead that explanations start as conjectures and tested against sense experience.
+
 **2. Closer to Reality**
+
+All observations are dependent on some underlying theory, and scientific measurements depend on a growing chain of theories that map what we see locally onto the objects that they represent.
+
+**3. The Spark**
 
 
 ## What changed my mind
